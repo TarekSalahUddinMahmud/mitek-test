@@ -86,4 +86,7 @@
     <plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
     <plugin name="cordova-plugin-ionic-webview" spec="^4.0.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
+    <plugin name="cordova-plugin-misnap" spec="https://github.com/meed-fintech/mitek-android.git" />
+    <engine name="android" spec="~7.1.4" />
+    <plugin name="com.miteksystems.mpnplugin" spec="https://github.com/meed-fintech/mitek-ios.git" />
 </widget>
